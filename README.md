@@ -14,6 +14,11 @@ run the development server:
 ```bash
 npm run dev
 ```
+run below command to see db in browser, Open [https://local.drizzle.studio](https://local.drizzle.studio)
+
+```bash
+npx drizzle-kit studio
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
