@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+It is simple todo app with NextJS, sqlite and drizzle ORM.
+Here I also added db.sqlite and .env.local to get you run locally without any 
+hard setup, enjoy. 
 
 ## Getting Started
 
