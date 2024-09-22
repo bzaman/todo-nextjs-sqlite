@@ -19,7 +19,8 @@ const config = {
     },
     extend: {
       fontFamily: {
-        sans: ['var(--font-sans)']
+        sans: ['var(--font-sans)'],
+        atkinson: ['var(--font-atkinson)'],
       },
       colors: {
         border: "hsl(var(--border))",
